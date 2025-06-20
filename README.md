@@ -86,3 +86,8 @@ http://localhost:8080/api/v1/empleados
 | **PUT**    | `/api/v1/empleados/{id}`        | Actualizar empleado (envía JSON sin el campo id) |
 | **DELETE** | `/api/v1/empleados/{id}`        | Eliminar empleado por ID                       |
 
+---
+
+> Proyecto desarrollado para la asignatura de Arquitectura Empresarial.  
+
+
